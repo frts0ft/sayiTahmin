@@ -19,3 +19,9 @@
 
 ## Gerekli Araçlar:
 - __.NET SDK__ yüklü olmalıdır. Proje, C# dili ile yazılmıştır ve __.NET Framework__ kullanılarak çalıştırılır.
+
+## Konsol Görüntüleri:
+![ss1](https://github.com/user-attachments/assets/6c288432-38a2-43cd-a3f5-8e8b430aba79)
+![ss2](https://github.com/user-attachments/assets/e5e14e30-e843-4b49-a39d-f7617d7a35c2)
+![ss3](https://github.com/user-attachments/assets/82ecf5a1-2752-4ed3-9821-6ebafe58e1c1)
+![ss4](https://github.com/user-attachments/assets/45bb1ab0-d055-4bb7-89e1-5fae53476de4)
